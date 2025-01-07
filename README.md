@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jassherrin/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Jassherrin/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jassherrin/Leetcode/tree/master/0189-rotate-array) |
+| [0890-lemonade-change](https://github.com/Jassherrin/Leetcode/tree/master/0890-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Jassherrin/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jassherrin/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0890-lemonade-change](https://github.com/Jassherrin/Leetcode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
