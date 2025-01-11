@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Jassherrin/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Jassherrin/Leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -62,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Jassherrin/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Jassherrin/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
