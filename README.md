@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jassherrin/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Jassherrin/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jassherrin/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Jassherrin/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Jassherrin/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Jassherrin/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Jassherrin/Leetcode/tree/master/0890-lemonade-change) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jassherrin/Leetcode/tree/master/0344-reverse-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jassherrin/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Jassherrin/Leetcode/tree/master/1894-merge-strings-alternately) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Jassherrin/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
