@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jassherrin/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jassherrin/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jassherrin/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jassherrin/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Jassherrin/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jassherrin/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Jassherrin/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jassherrin/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jassherrin/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jassherrin/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Jassherrin/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Jassherrin/Leetcode/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/Jassherrin/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jassherrin/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jassherrin/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
